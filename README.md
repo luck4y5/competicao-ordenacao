@@ -3,10 +3,10 @@
 Trabalho da disciplina **Estrutura de Dados**: ordenar a base `ListahAhSerOrdenada.txt` (~60 MB) no menor tempo de CPU possível, em C.
 
 ## Equipe
-1. Vinicius Baldo da Silva (líder)
-2. _[Nome completo]_
-3. _[Nome completo]_
-4. _[Nome completo]_
+1. Lucas Otávio de Oliveira Andrade (líder)
+2. Vinicius Baldo da Silva
+3. Renan Cardoso
+4. Luis Miguel
 
 ## Análise da base
 - **10.000.000** de números inteiros, um por linha
