@@ -85,4 +85,4 @@ Valores repetidos: 7500000
 Menor: 1 | Maior: 2500000
 ```
 
-![Execução no terminal](print_execucao.png)
+![Execução no terminal](RESULTADO.png)
